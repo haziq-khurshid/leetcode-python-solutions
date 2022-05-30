@@ -7,7 +7,7 @@ class Solution:
 
 
 """Below is the function call to test above function,
-   you can change input test as well."""
+   you can change input and test as well."""
 def main():
     input = [-4,-1,0,3,10]              
     sol = Solution()
