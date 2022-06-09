@@ -1,7 +1,3 @@
-from operator import truediv
-from unittest import result
-
-
 class Solution:
     def checkIfExist(self, arr: list[int]) -> bool:
         visited = set()                                   # Create an empty set to track visited numbers
