@@ -1,6 +1,3 @@
-import enum
-
-
 class Solution:
     def pivotIndex(self, nums: list[int]) -> int:
         total_sum = sum(nums)                                   # Total sum of nums
